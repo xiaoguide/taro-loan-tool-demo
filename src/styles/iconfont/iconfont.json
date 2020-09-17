@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7890799",
+      "name": "百分号",
+      "font_class": "percent",
+      "unicode": "e528",
+      "unicode_decimal": 58664
+    }
+  ]
+}
